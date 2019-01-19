@@ -9,6 +9,7 @@ class: about
 
 ## About
 
+<<<<<<< Updated upstream
 As a copywriter I've worked across a range of clients at a number of agencies in Melbourne including Cummins and Partners, M&C Saatchi, CHE Proximity and most recently, more than five years at The Royals.
 
 My work's been recognized at various award shows including AWARD, Caples, MADC, ADMA, Spikes and the NineMSN Butterfly Awards.
